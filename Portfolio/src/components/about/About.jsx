@@ -1,5 +1,5 @@
 import Stats from "./Stats";
-import Button from "../UI/Button";
+import Button from "../ui/Button";
 
 function About() {
     return (
