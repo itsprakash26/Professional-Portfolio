@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
-import HireModal from "../hire/HireModal";
+import HireModal from "../Hire/HireModal";
 import MobileMenu from "./MobileMenu";
 
 // import ThemeToggle from "../ui/ThemeToggle";
