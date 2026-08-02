@@ -7,7 +7,7 @@ function Footer() {
 
         {/* Logo */}
         <h2 className="text-2xl font-bold text-violet-500">
-          {"</>"} Prakash
+          &lt;/&gt; Prakash
         </h2>
 
         {/* Copyright */}

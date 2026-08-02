@@ -8,7 +8,7 @@ import { socialLinks, contactInfo } from "../../data/socialLinks";
 function Contact() {
   return (
     <section id="contact" className="py-28 bg-[#050816]">
-      <div className="max-w-6xl mx-auto px-6">
+      <div className="max-w-7xl mx-auto px-6">
 
         <div className="text-center mb-16">
 

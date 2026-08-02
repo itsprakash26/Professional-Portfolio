@@ -4,7 +4,7 @@ import TechIcons from "./TechIcons";
 
 function Hero() {
   return (
-    <section className="min-h-screen bg-[#060816] flex items-center">
+    <section id="home" className="min-h-screen bg-[#060816] flex items-center">
       <div className="max-w-7xl mt-10 mx-auto grid lg:grid-cols-2 gap-16 items-center px-6">
 
         {/* Left */}
