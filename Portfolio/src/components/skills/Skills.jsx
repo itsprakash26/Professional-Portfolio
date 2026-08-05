@@ -6,7 +6,7 @@ function Skills() {
 
         <section
             id="skills"
-            className="py-28 bg-[#060816]"
+            className="py-28 bg-[#060816] lg:w-full md:w-full w-[550px]"
         >
 
             <div className="max-w-7xl mx-auto px-6">

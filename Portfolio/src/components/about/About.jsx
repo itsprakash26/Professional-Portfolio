@@ -6,7 +6,7 @@ function About() {
 
         <section
             id="about"
-            className="bg-[#050816] py-28"
+            className="bg-[#050816] py-28 lg:w-full md:w-full w-[550px]"
         >
 
             <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-20 items-center">

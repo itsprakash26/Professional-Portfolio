@@ -3,7 +3,7 @@ import TestimonialCard from "./TestimonialCard";
 
 function Testimonials() {
   return (
-    <section className="py-28 bg-[#060816]">
+    <section className="py-28 bg-[#060816] lg:w-full md:w-full w-[550px]">
       <div className="max-w-7xl mx-auto px-6">
 
         <div className="text-center mb-16">

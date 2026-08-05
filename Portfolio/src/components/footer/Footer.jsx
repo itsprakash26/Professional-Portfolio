@@ -2,7 +2,7 @@ import { socialLinks } from "../../data/socialLinks";
 
 function Footer() {
   return (
-    <footer className="py-10 bg-[#040510] border-t border-gray-800">
+    <footer className="py-10 bg-[#040510] lg:w-full md:w-full w-[550px] border-t border-gray-800">
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-5">
 
         {/* Logo */}
@@ -16,7 +16,7 @@ function Footer() {
         </p>
 
         {/* Social Links */}
-        <div className="flex gap-5">
+        <div className="flex gap-6">
           {socialLinks.map((item) => {
             const Icon = item.icon;
 

@@ -5,11 +5,14 @@ import {
     FaReact,
     FaNodeJs,
     FaGitAlt,
+    FaGithub,
 } from "react-icons/fa";
+
 
 import {
     SiTailwindcss,
     SiTypescript,
+    SiExpress,
 } from "react-icons/si";
 
 export const skills = [
@@ -50,6 +53,11 @@ export const skills = [
         name: "Node.js",
         percentage: 80,
     },
+    {
+        icon: SiExpress,
+        name: "Node.js",
+        percentage: 80,
+    },
 
     {
         icon: SiTailwindcss,
@@ -60,6 +68,11 @@ export const skills = [
     {
         icon: FaGitAlt,
         name: "Git",
+        percentage: 85,
+    },
+    {
+        icon: FaGithub,
+        name: "Github",
         percentage: 85,
     },
 
