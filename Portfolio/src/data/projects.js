@@ -1,17 +1,16 @@
-import project1 from "../assets/images/project1.png";
+import favicon from "../assets/images/favicon.png";
 import project2 from "../assets/images/project2.png";
 import project3 from "../assets/images/project3.png";
 
 export const projects = [
   {
     id: 1,
-    title: "E-Commerce Website",
-    image: project1,
-    description:
-      "Modern online shopping platform built using React and Tailwind CSS.",
-    technologies: ["React", "Tailwind", "Firebase"],
-    github: "#",
-    live: "#",
+    title: "ai-interview-coach",
+    image: favicon,
+     description: "AI-powered interview platform for personalized questions, answer evaluation, scoring, and interview feedback.",
+technologies: ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Gemini AI"],
+    github: "https://github.com/itsprakash26/ai-interview-coach",
+    live: "https://ai-interview-coach-sfem.vercel.app/",
   },
 
   {
