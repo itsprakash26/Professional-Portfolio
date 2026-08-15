@@ -5,7 +5,7 @@ function HeroButtons() {
     });
   };
   const downloadCV = () => {
-    window.open("./OM-RESUME.pdf", "_blank");
+    window.open("./Omprakash.pdf", "_blank");
   };
   return (
     <div className="flex gap-5 mt-10">
